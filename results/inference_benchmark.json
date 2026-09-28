@@ -1,0 +1,8 @@
+{
+  "rows": 6000,
+  "features": 30,
+  "median_seconds": 0.019446907000201463,
+  "p95_seconds": 0.03519225999934861,
+  "throughput_flows_per_second": 308532.3542678454,
+  "note": "Model-only local benchmark; excludes network, serialization and dashboard overhead."
+}
